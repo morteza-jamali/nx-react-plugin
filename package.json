@@ -1,0 +1,31 @@
+{
+  "name": "nx-react-plugin",
+  "version": "0.1.0",
+  "description": "An extension library for Nx react plugin",
+  "exports": {
+    "./webpack": "./polyfills/webpack.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nx",
+    "nrwl",
+    "plugin",
+    "react",
+    "polyfills",
+    "nx-react",
+    "nx-react-plugin",
+    "@nrwl/react"
+  ],
+  "author": "Morteza Jamali <mortezajamali4241@gmail.com> (https://morteza-jamali.github.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morteza-jamali/nx-react-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morteza-jamali/nx-react-plugin/issues"
+  },
+  "homepage": "https://github.com/morteza-jamali/nx-react-plugin#readme"
+}
